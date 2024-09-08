@@ -81,3 +81,20 @@ nav ul li:hover{
 .page1 marquee img{
     height: 210px;
 }
+.page2{
+    width: 100%;
+    padding: 0 30px;
+}
+.page2 > h1:first-child{
+    margin-top: 10%;
+}
+.page2 > h1{
+    width: 75%;
+    margin-bottom: 5%;
+     }
+     .page2 > hr{
+        border: none;
+        margin-bottom: 5%;
+        height: 1px;
+        background-color: rgb(220, 220, 220);
+     }
