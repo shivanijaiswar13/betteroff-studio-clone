@@ -144,6 +144,8 @@ nav ul li:hover{
      .page4nav{
         font-size: 10px;
         position: initial;
+        /* display: flex; */
+        /* justify-content: space-between; */
      }
      .page4content{
         position: relative;
